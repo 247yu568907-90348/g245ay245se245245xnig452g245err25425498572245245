@@ -10556,6 +10556,7 @@ local script = G2L["63"];
 	
 			callall()
 	
+end)
 end;
 task.spawn(C_63);
 -- StarterGui.g0ld.base.frame2.page2.TextButton.LocalScript
