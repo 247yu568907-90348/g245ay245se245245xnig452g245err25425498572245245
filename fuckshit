@@ -1064,7 +1064,7 @@ G2L["70"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["70"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["70"]["Size"] = UDim2.new(0, 116, 0, 28);
 G2L["70"]["BorderColor3"] = Color3.fromRGB(0, 171, 255);
-G2L["70"]["Text"] = [[skyl0rd ultimate gui]];
+G2L["70"]["Text"] = [[frosttoasty  ultimate gui]];
 G2L["70"]["Position"] = UDim2.new(0.61638, 0, 0.04082, 0);
 
 
@@ -2684,18 +2684,18 @@ G2L["12a"] = Instance.new("LocalScript", G2L["129"]);
 
 
 
--- StarterGui.g0ld.base.frame5.ScrollingFrame.Folder.skyl0rd
+-- StarterGui.g0ld.base.frame5.ScrollingFrame.Folder.frosttoasty 
 G2L["12b"] = Instance.new("ImageButton", G2L["e9"]);
 G2L["12b"]["BorderSizePixel"] = 0;
 G2L["12b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["12b"]["Image"] = [[rbxassetid://102219721995060]];
 G2L["12b"]["Size"] = UDim2.new(0, 49, 0, 49);
 G2L["12b"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["12b"]["Name"] = [[skyl0rd]];
+G2L["12b"]["Name"] = [[frosttoasty ]];
 G2L["12b"]["Position"] = UDim2.new(0.05957, 0, 0.00875, 0);
 
 
--- StarterGui.g0ld.base.frame5.ScrollingFrame.Folder.skyl0rd.LocalScript
+-- StarterGui.g0ld.base.frame5.ScrollingFrame.Folder.frosttoasty .LocalScript
 G2L["12c"] = Instance.new("LocalScript", G2L["12b"]);
 
 
@@ -3239,7 +3239,7 @@ G2L["16d"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["16d"]["BackgroundTransparency"] = 1;
 G2L["16d"]["Size"] = UDim2.new(0, 256, 0, 78);
 G2L["16d"]["BorderColor3"] = Color3.fromRGB(0, 171, 255);
-G2L["16d"]["Text"] = [[thanks for using this gui!!!!! credits to me, skyl0rd, ren, bl1ss, wqs, wxaa, loopkidd, picklelover, f3xl0rd, rendery0 (ESPECIALLY), and others for the scripts!]];
+G2L["16d"]["Text"] = [[thanks for using this gui!!!!! credits to me, frosttoasty , ren, bl1ss, wqs, wxaa, loopkidd, picklelover, f3xl0rd, rendery0 (ESPECIALLY), and others for the scripts!]];
 G2L["16d"]["Position"] = UDim2.new(0.44788, 0, 0.14258, 0);
 
 
@@ -3501,7 +3501,7 @@ G2L["184"]["BackgroundTransparency"] = 1;
 G2L["184"]["Size"] = UDim2.new(0, 195, 0, 50);
 G2L["184"]["Visible"] = false;
 G2L["184"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["184"]["Text"] = [[g0ld gui v1 by me n rendery shout out to skyl0rd for being a real one]];
+G2L["184"]["Text"] = [[g0ld gui v1 by me n rendery shout out to frosttoasty  for being a real one]];
 G2L["184"]["Position"] = UDim2.new(1.17, 0, 0.25, 0);
 
 
@@ -11509,7 +11509,7 @@ local script = G2L["71"];
 	
 	
 		-- I HAD TO WARN YAH SKIDZ IF THIS GETS LEAKED
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/247yu568907-90348/srecipt-pack3141513/refs/heads/main/skyl0rd%20ultimate%20private%20new.lua"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/247yu568907-90348/srecipt-pack3141513/refs/heads/main/frosttoasty %20ultimate%20private%20new.lua"))()
 	end)
 end;
 task.spawn(C_71);
@@ -15519,7 +15519,7 @@ local script = G2L["12a"];
 	end)
 end;
 task.spawn(C_12a);
--- StarterGui.g0ld.base.frame5.ScrollingFrame.Folder.skyl0rd.LocalScript
+-- StarterGui.g0ld.base.frame5.ScrollingFrame.Folder.frosttoasty .LocalScript
 local function C_12c()
 local script = G2L["12c"];
 	local poop = script.Parent.Image:match("%d+")
